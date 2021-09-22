@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giubrocchi&label=Profile%20views&color=0e75b6&style=flat" alt="giubrocchi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giubrocchi" alt="giubrocchi" /></a> </p>
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://replit.com/@GiuliaBrocchi](https://replit.com/@GiuliaBrocchi)
 
 - 📫 Contato **jujubrocchi@gmail.com**
