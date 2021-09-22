@@ -1,8 +1,6 @@
 <h1 align="center">Oie 👋, eu sou Giulia Brocchi</h1>
 <h3 align="center">Uma estudante de Engenharia de Software que ama desafios e novos conhecimentos</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giubrocchi&label=Profile%20views&color=0e75b6&style=flat" alt="giubrocchi" /> </p>
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://replit.com/@GiuliaBrocchi](https://replit.com/@GiuliaBrocchi)
 
 - 📫 Contato **jujubrocchi@gmail.com**
