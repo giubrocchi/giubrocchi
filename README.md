@@ -1,7 +1,7 @@
 <h1 align="center">Oie 👋, eu sou Giulia Brocchi</h1>
 <h3 align="center">Uma estudante de Engenharia de Software que ama desafios e novos conhecimentos</h3>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://replit.com/@GiuliaBrocchi](https://replit.com/@GiuliaBrocchi)
+- 👨‍💻 Outros projetos estão disponíveis em [https://replit.com/@GiuliaBrocchi](https://replit.com/@GiuliaBrocchi)
 
 - 📫 Contato **jujubrocchi@gmail.com**
 
