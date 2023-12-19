@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulia Brocchi</h1>
-<h3 align="center">A Software Engineer passionate about challenges and new knowledge</h3>
+<h3 align="center">A Software Engineer passionate about challenges and new knowledges</h3>
 
 - 👨‍💻 Other projects are available at [https://replit.com/@GiuliaBrocchi](https://replit.com/@GiuliaBrocchi)
 
