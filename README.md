@@ -7,6 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/giulia-brocchi/](https://www.linkedin.com/in/giulia-brocchi/)
 
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h3>Programming languages</h3>
